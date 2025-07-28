@@ -31,7 +31,7 @@ Number Generator/
 # How to Run
 
 Clone the repository:
-git clone https://github.com/your-username/Number-Generator.git
+git clone https://github.com/RashmithaBolloju01/Number_Generation.git
 cd Number-Generator
 Launch the notebook:
 jupyter notebook Number_generation.ipynb
